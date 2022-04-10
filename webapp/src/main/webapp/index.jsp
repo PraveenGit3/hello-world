@@ -1,2 +1,1 @@
-<h1> Hello, Welcome to AWS EC2 , Deployment successful  !!! </h1>
-
+<h1> Hello, Welcome to AWS EC2 , Deployment successfull ,pradeep !!! </h1>s
